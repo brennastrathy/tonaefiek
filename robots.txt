@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://relaigieng.codingmonster.net/sitemap.xml
